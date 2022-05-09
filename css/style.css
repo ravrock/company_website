@@ -364,6 +364,11 @@ div.preloader {
          
 }
 
+.nim-menu{
+    padding-bottom: 15px !important;
+    padding-top: 0px !important;
+}
+
 .nim-menu a.navbar-brand {
 text-transform: uppercase;
 font-size: 1.5em;
